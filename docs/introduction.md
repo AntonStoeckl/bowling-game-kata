@@ -49,7 +49,7 @@ To have a clean master branch, we work on a temporary mob-session branch. After 
 
 A quick handover is essential. At the end of the mob session, we squash the WIP commits into expressive commits and merge into master.
 
-We created the mob tool to simplify this process.
+We use the mob tool to simplify this process.
 
 ## Group Decisions
 
