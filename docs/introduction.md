@@ -14,6 +14,10 @@ One person controls the keyboard, this is the typist. The rest of the mob discus
 
 The typist must not code on their own. This balances the participation of all team members and it reduces the dominance of strong characters.
 
+*At MaibornWolff use the so-called "strict mode" with a designated navigator as the default, he rest of the team acts as advisors. It is totally fine to use the non-strict mode without a designated navigator, or in other words, everybody except the typist is a navigator.*
+
+![Team Programming Roles](team-programming-roles.jpg)
+
 ## Screen Sharing
 
 We feel most comfortable working in our own individual environment. It is where we are most productive.
