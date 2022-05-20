@@ -8,32 +8,32 @@
 * group-size? recommended  4-6 members per team, one facilitator from us in each team
 
 * how are groups formed?
-** probably no requirements from our side
-** whatever works
+  * probably no requirements from our side
+  * whatever works
 
 * Which choices do we allow? Which constraints are fixed?
 * remote
-** minimum-team size: 3
-** initially java is set
-** in the future we might offer variants, or allow the teams to choose their language
+  * minimum-team size: 3
+  * initially java is set
+  * in the future we might offer variants, or allow the teams to choose their language
 
 
 * teach team-programming-techniques (mob/ensemble/pair-programming)
 * should we incorporate tdd?
-** we encourage it, but do not require them to work in a specific way
-** encourage by explain how it works well together with team-programming
+  * we encourage it, but do not require them to work in a specific way
+  * encourage by explain how it works well together with team-programming
 * not that the bowling game is implemented fully and correctly
 
 * extension points
 
 
 * measure the results ?
-** simply provide place for feedback at the end
-** how?
-*** execute testsuite and track success / failure
-** survey about quality, methods used etc.
-*** menti-meter?
-** within the training or outside
+  * simply provide place for feedback at the end
+  * how?
+    * execute testsuite and track success / failure
+  * survey about quality, methods used etc.
+    * menti-meter?
+  * within the training or outside
 
 # Training-Timetable
 
