@@ -84,11 +84,11 @@ can complete the bonus points for their strike or spare. However, no more than 3
 
 In the example table below a "/" means spare and a X means strike:
 
-| Frame:         | 1  | 2  | 3   | 4  | 5  | 6   | 7   | 8   | 9   | 10  |
-|----------------|----|----|-----|----|----|-----|-----|-----|-----|-----|
-| Result:        | X  | 7/ | 7 2 | 9/ | X  | X   | X   | 2 3 | 7   | 7/3 |
-| Frame Score:   | 20 | 17 |  9  | 20 | 20 | 22  | 15  | 5   | 17  | 13  |
-| Running Total: | 20 | 37 | 46  | 66 | 96 | 118 | 133 | 138 | 155 | 168 |
+| Frame:         | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10    |
+|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|
+| Result:        | X   | 7 / | 7 2 | 9 / | X   | X   | X   | 2 3 | 7   | 7 / 3 |
+| Frame Score:   | 20  | 17  | 9   | 20  | 20  | 22  | 15  | 5   | 17  | 13    |
+| Running Total: | 20  | 37  | 46  | 66  | 96  | 118 | 133 | 138 | 155 | 168   |
 
 
 # Requirements
