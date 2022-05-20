@@ -42,7 +42,7 @@
 
 10:00 - 12:00 team-programming session 1
 
-12-13 lunch-break
+12:00 - 13:00 lunch-break
 
 13:00 - 13:15 retrospective over all teams
 
@@ -51,8 +51,8 @@
 15:30 - 16:00 coffee break
 
 16:00 - 17:00 feedback session
-16:00- 16:30 collect feedback and present feedback
-16:30 -17:00 open-discussion
+16:00 - 16:30 collect feedback and present feedback
+16:30 - 17:00 open-discussion
 
 
 
