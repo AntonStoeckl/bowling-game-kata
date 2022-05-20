@@ -61,7 +61,8 @@
 When are we planning to hold the first training?
 * asap - testrun in elements as soon as ready
 
-#Bowling Rules
+
+# Bowling Rules
 
 The **game** consists of **10** **frames**.
 In each frame the **player** has **two rolls** to knock down **10 pins**.
@@ -82,13 +83,11 @@ Instead, the player gets additional rolls in this frame, so that they
 can complete the bonus points for his strike or spare. However, no more than 3 total rolls are allowed.
 
 
-#Requirements
+# Requirements
 
 Write a class Game that has two methods
 
     void roll(int) is called each time the player rolls a ball. The argument is the number of pins knocked down.
     int score() returns the total score for that game.
 
-
-
-#Tasks
+# Tasks
