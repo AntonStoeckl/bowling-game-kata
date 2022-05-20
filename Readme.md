@@ -80,7 +80,7 @@ The bonus for that frame is the value of the next two rolls.
 The tenth frame is a special frame:
 A spare or strike in this frame, does not immediately complete the frame.
 Instead, the player gets additional rolls in this frame, so that they
-can complete the bonus points for his strike or spare. However, no more than 3 total rolls are allowed.
+can complete the bonus points for their strike or spare. However, no more than 3 total rolls are allowed.
 
 
 # Requirements
