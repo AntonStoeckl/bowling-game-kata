@@ -38,7 +38,7 @@
 # Training-Timetable
 
 09:00 - 10:00 Introduction - theory -setup, teambuilding,
-** Our learnings and experiences so far
+**Our learnings and experiences so far**
 
 10:00 - 12:00 team-programming session 1
 
