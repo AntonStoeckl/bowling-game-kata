@@ -14,7 +14,7 @@ One person controls the keyboard, this is the typist. The rest of the mob discus
 
 The typist must not code on their own. This balances the participation of all team members and it reduces the dominance of strong characters.
 
-*At MaibornWolff we use the so-called "strict mode" with a designated navigator as the default, he rest of the team acts as advisors. It is totally fine to use the non-strict mode without a designated navigator, or in other words, everybody except the typist is a navigator.*
+*At MaibornWolff we use the so-called "strict mode" with a designated navigator as the default, the rest of the team acts as advisors. It is totally fine to use the non-strict mode without a designated navigator, or in other words, everybody except the typist is a navigator.*
 
 ![Team Programming Roles](team-programming-roles.jpg)
 
@@ -53,7 +53,7 @@ To have a clean master branch, we work on a temporary mob-session branch. After 
 
 A quick handover is essential. At the end of the mob session, we squash the WIP commits into expressive commits and merge into master.
 
-We use the mob tool to simplify this process.
+We use the [mob tool](https://github.com/remotemobprogramming/mob) to simplify this process.
 
 ## Group Decisions
 
