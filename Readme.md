@@ -35,6 +35,17 @@
     * menti-meter?
   * within the training or outside
 
+
+# TODOs
+
+* Introduction -> **Basti**
+* Reset tests in branch, so we have only a first, failing test and save full test suite into a branch -> **Laurens**
+* Setup documentation, screenshots -> **Basti**
+* Prepare feedback "questionaire" -> **Basti**
+* Send email (please check out, install, ...) (on the day before the workshop)
+
+---------------------------------------------------------
+
 ## What will you learn?
 
 * What are the advantages of team programming?
@@ -42,8 +53,6 @@
 * What are the roles in team programming and how should they behave?
 * How to do handovers when the roles are switched!
 * Optional: Test-Driven Development
-
-
 
 
 ## What problem will we solve (implement)?
@@ -58,11 +67,12 @@ All teams are encouraged, but not forced, to work in a strict TDD style. We will
 ## Agenda
 9:00 - 10:00            
 
-* Introduction to team programming
-* Building the teams 
-* Checking out the project skeleton from GitLab 
-* Installing the mob.sh tool for easy handovers
-* Introduction to the "problem" we will solve
+* Introduction to team programming (20m)
+* Quick "role play" by the moderators (10m)
+* Building the teams (5m)
+* Checking out the project skeleton from GitLab and check if test can be executed (10m)
+* Installing the  [mob.sh](https://github.com/remotemobprogramming/mob) tool for easy handovers (5m)
+* Introduction to the "problem" we will solve (10m)
 
 10:00 - 12:00   
 * Team Programming session 1
@@ -120,4 +130,9 @@ Write a class Game that has two methods:
 * **void roll(int)** is called each time the player rolls a ball. The argument is the number of pins knocked down.
 * **int score()** returns the total score for that game.
 
-# Tasks
+# Some decisions to make
+
+* Decide rotation time (we recommend 15m)
+* Decide if you want to do TDD (we recommend so)
+* Pick first typist and navigator
+* Navigator + advisors: What to start with? (e.g. first test case)
