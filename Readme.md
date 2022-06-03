@@ -35,31 +35,53 @@
     * menti-meter?
   * within the training or outside
 
-# Training-Timetable
+## What will you learn?
 
-09:00 - 10:00 Introduction - theory -setup, teambuilding,
-**Our learnings and experiences so far**
-
-10:00 - 12:00 team-programming session 1
-
-12:00 - 13:00 lunch-break
-
-13:00 - 13:15 retrospective over all teams
-
-13:30 - 15:30 team-programming session 2
-
-15:30 - 16:00 coffee break
-
-16:00 - 17:00 feedback session
-16:00 - 16:30 collect feedback and present feedback
-16:30 - 17:00 open-discussion
+* What are the advantages of team programming?
+* How to run a team programming session!
+* What are the roles in team programming and how should they behave?
+* How to do handovers when the roles are switched!
+* Optional: Test-Driven Development
 
 
 
 
-# Timeline
-When are we planning to hold the first training?
-* asap - testrun in elements as soon as ready
+## What problem will we solve (implement)?
+
+We will solve the Bowling Game Kata together - with Java. Basic Java skills will be sufficient. The team can support participants that are not fluid in Java yet.
+
+## How will we work in this workshop?
+
+The participants will be split into teams (ensembles) of ideally 4-6 developers and will solve the Kata as far as we can get.
+All teams are encouraged, but not forced, to work in a strict TDD style. We will switch roles every 15 minutes.
+
+## Agenda
+9:00 - 10:00            
+
+* Introduction to team programming
+* Building the teams 
+* Checking out the project skeleton from GitLab 
+* Installing the mob.sh tool for easy handovers
+* Introduction to the "problem" we will solve
+
+10:00 - 12:00   
+* Team Programming session 1
+
+12:00 - 13:00  
+* Lunch Break
+
+13:00 - 13:30   
+* Quick retro of session 1
+
+13:30 - 15:45
+* Team Programming session 2
+
+15:45 - 16:00
+* Coffee break
+
+16:00 - 17:00
+* Feedback
+* Open discussion
 
 
 # Bowling Rules
@@ -93,9 +115,9 @@ In the example table below a "/" means spare and a X means strike:
 
 # Requirements
 
-Write a class Game that has two methods
+Write a class Game that has two methods:
 
-    void roll(int) is called each time the player rolls a ball. The argument is the number of pins knocked down.
-    int score() returns the total score for that game.
+* **void roll(int)** is called each time the player rolls a ball. The argument is the number of pins knocked down.
+* **int score()** returns the total score for that game.
 
 # Tasks
