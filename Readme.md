@@ -64,35 +64,6 @@ We will solve the Bowling Game Kata together - with Java. Basic Java skills will
 The participants will be split into teams (ensembles) of ideally 4-6 developers and will solve the Kata as far as we can get.
 All teams are encouraged, but not forced, to work in a strict TDD style. We will switch roles every 15 minutes.
 
-## Agenda
-9:00 - 10:00            
-
-* Introduction to team programming (20m)
-* Quick "role play" by the moderators (10m)
-* Building the teams (5m)
-* Checking out the project skeleton from GitLab and check if test can be executed (10m)
-* Installing the  [mob.sh](https://github.com/remotemobprogramming/mob) tool for easy handovers (5m)
-* Introduction to the "problem" we will solve (10m)
-
-10:00 - 12:00   
-* Team Programming session 1
-
-12:00 - 13:00  
-* Lunch Break
-
-13:00 - 13:30   
-* Quick retro of session 1
-
-13:30 - 15:45
-* Team Programming session 2
-
-15:45 - 16:00
-* Coffee break
-
-16:00 - 17:00
-* Feedback
-* Open discussion
-
 
 
 # Some decisions to make
