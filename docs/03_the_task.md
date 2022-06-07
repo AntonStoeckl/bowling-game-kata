@@ -1,3 +1,18 @@
+# The task
+You are a newly formed team at MaibornWolff that is charged to implement the core functionality of a new system to track
+the score of a single player's bowling game.
+
+You have been given the following requirements:
+- Implement all the bowling-rules described below as a Java-programm. The rules are in no particular order.
+- The concrete usage of your java-programm is not yet defined. However it was decided that a class Game should exist which
+  should implement at least the following methods:
+  - **void roll(int)** is called each time the player rolls a ball. The argument is the number of pins knocked down.
+  - **int score()** returns the total score for that game.
+
+If you feel that you require additional information / requirements for making decisions,
+feel free to ask one of the moderators for input,
+make an assumption in the team or designate a team-member to play the role of the customer.
+
 # Bowling Rules
 
 ### Game & Frame
@@ -37,27 +52,14 @@ In the example table below a **/** represents a spare and an **X** represents a 
 
 
 
-# The task
-You are a newly formed team at MaibornWolff that is charged to implement the core functionality of a new system to track
-the score of a single player's bowling game.
 
-You have been given the following requirements:
-- Implement all the bowling-rules described above as a Java-programm. The rules are in no particular order.
-- The concrete usage of your java-programm is not yet defined. However it was decided that a class Game should exist which 
-should implement at least the following methods:
-  - **void roll(int)** is called each time the player rolls a ball. The argument is the number of pins knocked down.
-  - **int score()** returns the total score for that game.
+# Remarks and recommendations
+## The cost of choice vs. recommendations
 
-If you feel that you require additional information / requirements for making decisions,
-feel free to ask one of the moderators for input,
-make an assumption in the team or designate a team-member to play the role of the customer.
-
-
-
-## On a meta-level
+## Keep in mind.
 - This is not a competition about speed, completion or correctness.
 - Focus on learning the team-programming-techniques. 
 - Focus on communication, collaboration and learning from another. 
-- Pretend that you are project team charged with the task described above and act as you would in project.
+- Pretend that you are project team charged with the task described above and act as you would in a project.
 - If you are 
-# The cost of choice vs. recommendations 
+ 
