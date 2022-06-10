@@ -41,8 +41,11 @@ Alternatively, if this is not working, you can install this plugin also via Inte
 
 ![](mob_plugin.png)
 
+### Advanced Install
+If you do not want to install this plugin, you can install the mob directly to your machine. The repository and the install manuel can be found on [github](https://github.com/remotemobprogramming/mob).
+
 ### Mob-Controls 
-| Action | Where can I find this action? | What does this action? |
+| Action | Where can I find this action? | What does this action do? |
 |---|---|---|
 | Starting new session | Git -> Mob -> Start Mob Programming as Typist... | Pulls, create/switch to configured branch (default `mob-session`) and starts the timer (time is shown in the lower right corner)|
 | Mob Next | Git -> Mob -> Next: Handover to next Typist... | Commits and pushes, so the next typist can start |
