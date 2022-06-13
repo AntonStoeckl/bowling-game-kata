@@ -24,11 +24,5 @@
 
 8. **16:00 - 17:00 Feedback and discussion**
    1. Short questionnaire
-      1. quality
-      2. knowledge spread / common understanding
-      3. learning
-      4. effectiveness
-      5. positive observations
-      6. neutral observations 
-      7. negative observations
+      https://www.menti.com/v1wvvf9zig
    2. Open discussion
