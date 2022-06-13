@@ -51,8 +51,6 @@ In the example table below a **/** represents a spare and an **X** represents a 
 | Running Total: | 20  | 37  | 46  | 66  | 96  | 118 | 133 | 138 | 155 | 168       |
 
 
-
-
 # Remarks and recommendations
 ## The cost of choice vs. recommendations
 

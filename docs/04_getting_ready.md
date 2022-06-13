@@ -4,8 +4,6 @@ There are no special requirements for how the teams should be formed.
 Afterwards please make sure in the team that everybody in the team has a working setup 
 
 # The tech-setup
-- Zoom
-  - [download link](https://zoom.us/download)
 - GIT
 - Intellij
   - [download link](https://www.jetbrains.com/de-de/idea/download/)
@@ -44,21 +42,8 @@ Alternatively, if this is not working, you can install this plugin also via Inte
 ### Advanced Install
 If you do not want to install this plugin, you can install the mob directly to your machine. The repository and the install manuel can be found on [github](https://github.com/remotemobprogramming/mob).
 
-### Mob-Controls 
-| Action | Where can I find this action? | What does this action do? |
-|---|---|---|
-| Starting new session | Git -> Mob -> Start Mob Programming as Typist... | Pulls, create/switch to configured branch (default `mob-session`) and starts the timer (time is shown in the lower right corner)|
-| Mob Next | Git -> Mob -> Next: Handover to next Typist... | Commits and pushes, so the next typist can start |
-| Mob Done | Git -> Mob -> Done: Finish Mob Session... | Commits and pushes |
-
-Preferences of this Plugin can be changes in "Preferences -> Tool -> Mob"
-
 ## Am I ready?
 - bowling game checked out and imported into intellij
 - code can be compiled
 - first test can be run and fails
 - i can start a new mob session with the mob-tool
-
-
-## Watch and learn?
-* a first example session (performed by the moderators) (10m)
