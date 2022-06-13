@@ -1,9 +1,3 @@
-# TODOs to get the training ready
-* prepare content for introduction and team-programming theory + techniques
-* prepare feedback session
-* prepare highlights
-
-
 # Goal of our training
 * group-size? recommended  4-6 members per team, one facilitator from us in each team
 
@@ -35,12 +29,7 @@
         * menti-meter?
     * within the training or outside
 
-
-# TODOs
-
-* Introduction -> **Basti**
-* Prepare feedback "questionaire" -> **Basti**
-
+  
 
 ---------------------------------------------------------
 
@@ -61,12 +50,3 @@ We will solve the Bowling Game Kata together - with Java. Basic Java skills will
 
 The participants will be split into teams (ensembles) of ideally 4-6 developers and will solve the Kata as far as we can get.
 All teams are encouraged, but not forced, to work in a strict TDD style. We will switch roles every 15 minutes.
-
-
-
-# Some decisions to make
-
-* Decide rotation time (we recommend 15m)
-* Decide if you want to do TDD (we recommend so)
-* Pick first typist and navigator
-* Navigator + advisors: What to start with? (e.g. first test case)

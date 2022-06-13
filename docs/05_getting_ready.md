@@ -43,7 +43,14 @@ Alternatively, if this is not working, you can install this plugin also via Inte
 If you do not want to install this plugin, you can install the mob directly to your machine. The repository and the install manuel can be found on [github](https://github.com/remotemobprogramming/mob).
 
 ## Am I ready?
-- bowling game checked out and imported into intellij
-- code can be compiled
-- first test can be run and fails
-- i can start a new mob session with the mob-tool
+- The bowling game is checked out and imported into intellij.
+- The code can be compiled with gradle.
+- The first test can be run and fails.
+- I can start a new session with the mob-tool.
+- I have made sure that everyone in my team is also ready. If not I will help them.
+
+## Steps before starting your first session
+* Pick first typist/driver and navigator and navigation-style
+* Decide rotation time
+* Navigator + advisors: What is the goal of the first iteration?
+* Typist starts screen sharing and starts a new session with the mob-tool.

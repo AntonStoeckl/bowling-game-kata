@@ -1,9 +1,10 @@
 ## Agenda
 1. **9:00 - 10:00 Welcome & Preparation**
    1. **The agenda [10m]**
-   2. **A very short introduction to team programming [20m]**
-   3. **The task [10m]**
-   4. **Getting ready [20m]**
+   2. **A very short introduction to team programming [30m]**
+   3. **The task [5m]**
+   4. **Some recommendations by the moderators [10m]**
+   5. **Getting ready [5m]**
    
 
 2. **10:00 - 12:00 Team-Programming I**
