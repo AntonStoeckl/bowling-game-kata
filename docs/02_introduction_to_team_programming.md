@@ -1,5 +1,6 @@
-# What is Team Programming and why should we do it?
-*We use the term team programming instead of the original term mob programming, because we think that mob has a negative connotation
+# What is team programming and why should we do it?
+
+We use the term *team programming* instead of the original term mob programming, because we think that mob has a negative connotation
 that enforces existing negative biases against its idea!
 However the term is not crucial and can be understood as a synonym to the terms mob programming or ensemble programming.*
 
@@ -10,18 +11,20 @@ So instead of trying it our definition, we let Woody talk.
 [mob programming and the power of flow](https://www.youtube.com/watch?v=28S4CVkYhWA) till ~minute 09:29
 
 ## Key ideas
-- "All the brilliant minds working on the same thing, at the same time, at the same space, at the same computer."
-- "For an idea to go from someone's head to into the computer it must go through somebody else's hands."
-- Why?
-  - Knowledge sharing
-  - flow and focus
-  - many perspectives
-  - rapid continuous feedback
-  - better solutions
+>All the brilliant minds working on the same thing, at the same time, at the same space, at the same computer.
+
+>For an idea to go from someone's head to into the computer it must go through somebody else's hands. 
+ 
+*Why people do it:*
+- knowledge sharing
+- flow and focus
+- many perspectives
+- rapid continuous feedback
+- better solutions
   
-# How to do it
-We have covered now what it is and why it seems desirable to work this way.
-Here are some practices on how people have been doing it:
+# Key technique driver & navigator
+We have covered what it is and why it seems desirable to work this way.
+Here is one key technique on how people have been doing it:
 
 [driver & navigator](https://youtu.be/SHOVVnRB4h0?t=1166) till minute ~28:00
 

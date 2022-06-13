@@ -49,15 +49,4 @@ In the example table below a **/** represents a spare and an **X** represents a 
 | Result:        | X   | 7 / | 7 2 | 9 / | X   | X   | X   | 2 3 | 7 / | 7   /   3 |
 | Frame Score:   | 20  | 17  | 9   | 20  | 20  | 22  | 15  | 5   | 17  | 13        |
 | Running Total: | 20  | 37  | 46  | 66  | 96  | 118 | 133 | 138 | 155 | 168       |
-
-
-# Remarks and recommendations
-## The cost of choice vs. recommendations
-
-## Keep in mind.
-- This is not a competition about speed, completion or correctness.
-- Focus on learning the team-programming-techniques. 
-- Focus on communication, collaboration and learning from another. 
-- Pretend that you are project team charged with the task described above and act as you would in a project.
-- If you are 
  

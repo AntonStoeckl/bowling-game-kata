@@ -1,3 +1,21 @@
+# Remarks about the design of this training
+
+We as the authors have started learning about team-programming with a similar setup as this one.
+When designing this training, we wanted to condense most of our learnings into a single day training.
+Here are some of our considerations / tradeoffs that we talked about during the design of this training:
+
+- Realistic project setup vs. limiting complexity to focus on core techniques
+- Fixed constraints vs. freedom of choice (tooling, technologies, techniques)
+- Making your own experiences vs. nudging you in the "right" direction
+
+We tried to take some of our experiences and ease the learning for you, hopefully without taking away too many of your own choices.
+Therefore we would like to give you some instructions on how to proceed - some of them we took over from others, some we discovered ourselves.
+However all of these instructions should be considered as recommendations.
+This means if you as a team would like to deviate from any of it, you are free to do so.
+Just discuss it and agree upon it in the team. 
+
+# Recommendations
+
 ## Screen Sharing
 
 We feel most comfortable working in our own individual environment. It is where we are most productive.
