@@ -26,7 +26,7 @@ So instead of trying it our definition, we let Woody talk.
 We have covered what it is and why it seems desirable to work this way.
 Here is one key technique that people have been using:
 
-[driver & navigator](https://youtu.be/SHOVVnRB4h0?t=1166) till minute ~28:00
+[driver & navigator](https://youtu.be/SHOVVnRB4h0?t=1166) from 19:26 till minute ~28:00
 
 Some details on the roles:
 - We use the name driver and typist as synonyms.
